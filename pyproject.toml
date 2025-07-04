@@ -3,3 +3,4 @@ name = "loci"
 version = "0.1.0"
 description = "A queryable second brain over your scattered notes and docs - hybrid retrieval (vector + BM25), section-level citations, and an MCP server so AI agents can use it. ~300 lines, no LangChain."
 requires-python = ">=3.10"
+# match the style used in the rest of the module
